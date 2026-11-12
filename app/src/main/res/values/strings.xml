@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aanya</string>
+    <string name="aanya_subtitle_online">Hinglish Companion • Online</string>
+    <string name="aanya_subtitle_typing">Aanya likh rahi hai...</string>
+    <string name="welcome_headline">Hey %1$s! Main Aanya hoon</string>
+    <string name="welcome_subheadline">Dil ki baat karni ho, din kaisa gaya batana ho, ya bas chai pe gupshup — main hoon na.</string>
+    <string name="welcome_starters_title">Kahan se shuru karein?</string>
+    <string name="composer_placeholder">Aanya ko kuch likho...</string>
+    <string name="send_message_cd">Send message</string>
+    <string name="new_chat_cd">Start new chat</string>
+    <string name="new_chat_label">Nayi Baat</string>
+    <string name="history_cd">Open conversation history</string>
+    <string name="settings_cd">Customize Aanya persona</string>
+    <string name="aanya_avatar_cd">Aanya companion avatar</string>
+    <string name="welcome_banner_cd">Cozy evening balcony with chai and fairy lights</string>
+    <string name="chats_section_title">Tumhari Baatein</string>
+    <string name="no_saved_chats">Abhi koi purani baat nahi hai. Neeche se shuru karo!</string>
+    <string name="delete_chat_cd">Delete conversation</string>
+    <string name="copy_message_cd">Copy message</string>
+    <string name="copied_toast">Message copy ho gaya!</string>
+    <string name="retry_button">Retry</string>
+    <string name="regenerate_cd">Regenerate reply</string>
+    <string name="persona_sheet_title">Aanya ki Vibe &amp; Settings</string>
+    <string name="nickname_label">Aanya tumhe kya bulaye?</string>
+    <string name="nickname_hint">e.g. Shona, Dost, Yaar</string>
+    <string name="vibe_section_label">Conversation Vibe</string>
+    <string name="temperature_label">Creativity &amp; Warmth (Temperature: %1$.1f)</string>
+    <string name="theme_section_label">App Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="clear_chat_button">Is chat ko clear karo</string>
+    <string name="save_settings_button">Done</string>
+    <string name="error_empty_response">Aanya ka reply blank aaya. Ek baar aur try karo.</string>
+    <string name="error_timeout">Response mein thoda zyada time lag gaya (60s). Please retry karo.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Aanya",
+  "description": "A friendly Hinglish conversational companion app powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
